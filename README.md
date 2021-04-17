@@ -1,3 +1,3 @@
 # mytest
 mytest
-!(taolu)[lujing]
+![taolu](https://raw.githubusercontent.com/yoyojacky/mytest/main/taolu.png)
